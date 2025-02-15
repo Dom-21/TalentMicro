@@ -1,0 +1,9 @@
+{
+    "navItems": [
+        { "label": "Home", "link": "#" },
+        { "label": "Products", "link": "#" },
+        { "label": "Careers", "link": "#" },
+        { "label": "About Us", "link": "#" },
+        { "label": "Contact Us", "link": "#" }
+    ]
+}

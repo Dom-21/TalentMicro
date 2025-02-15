@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
+  },
+  "dependencies": {
+    "ngx-slick-carousel": "^17.0.0",
+    "slick-carousel": "^1.8.1"
+  }
+}

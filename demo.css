@@ -1,0 +1,38 @@
+body{
+    background-color:white;
+}
+.card-list .card-item{
+    list-style: none;
+
+}
+.card-list .card-item .card-link {
+    user-select: none;
+    width: 400px;
+    display: block;
+    background-color: #fff;
+    padding: 18px;
+    border-radius: 1rem;
+    text-decoration: none;
+    border: 2px solid transparent;
+    box-shadow: 0 1rem 1rem rgba(0,0,0,0.3);
+    transition: 0.7s ease;
+}
+
+.card-list .card-item .card-link:hover{
+    border-color: silver;
+}
+
+.card-list .card-link .card-image {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: contain;
+    border-radius: 1rem;
+}
+
+.card-list .card-link .badge{
+    color: blueviolet;
+    background: whitesmoke;
+    font-size: 3rem;
+    margin: 1rem 0;
+    border-radius: 1rem;
+}
